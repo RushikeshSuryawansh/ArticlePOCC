@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tushar/AndroidStudioProjects/ArticlePOC/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
+            "outputFile": "/Users/tushar/Documents/Projects/ArticlePOC/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml",
             "map": [
                 {
                     "source": "/Users/tushar/.gradle/caches/transforms-2/files-2.1/f0e23cb3a601ad3124fde05a0712e1f0/core-1.3.1/res/values-th/values-th.xml",

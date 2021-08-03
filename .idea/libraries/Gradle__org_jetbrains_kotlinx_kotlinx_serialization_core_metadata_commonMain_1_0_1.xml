@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-serialization-core-metadata:commonMain:1.0.1" type="kotlin.common">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/shared/build/tmp/kotlinMetadata/commonMain/implementation/org.jetbrains.kotlinx-kotlinx-serialization-core-metadata/org.jetbrains.kotlinx-kotlinx-serialization-core-metadata-commonMain.klib!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-core-metadata/1.0.1/f4e6d5a530c17aa24e8e0137bd82c9f0f88e0aba/kotlinx-serialization-core-metadata-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

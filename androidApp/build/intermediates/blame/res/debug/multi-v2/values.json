@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tushar/AndroidStudioProjects/ArticlePOC/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/tushar/Documents/Projects/ArticlePOC/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/tushar/.gradle/caches/transforms-2/files-2.1/dcb53d5d6e20e16d9fc7d5a6f77abd5f/coordinatorlayout-1.1.0/res/values/values.xml",
@@ -80,23 +80,6 @@
                     }
                 },
                 {
-                    "source": "/Users/tushar/AndroidStudioProjects/ArticlePOC/androidApp/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "401,402,403",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "19543,19589,19636",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "19584,19631,19682"
-                    }
-                },
-                {
                     "source": "/Users/tushar/.gradle/caches/transforms-2/files-2.1/b2fdda9c00f0bdfbdc7f2a4f40d7454e/transition-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -152,7 +135,7 @@
                     }
                 },
                 {
-                    "source": "/Users/tushar/AndroidStudioProjects/ArticlePOC/androidApp/src/main/res/values/styles.xml",
+                    "source": "/Users/tushar/Documents/Projects/ArticlePOC/androidApp/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -206,6 +189,23 @@
                         "endLines": "383,384,469,470,574,575,576,577,578,579,580,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,878,879,894,895,896,897,898,899,900,901,902,903,910,938,1027,3360,3364,3365,3369,3370,3903,3904,5846,6113,6145,6188,6195",
                         "endColumns": "71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,56,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24",
                         "endOffsets": "18241,18329,24092,24155,31225,31293,31365,31435,31496,31570,31643,46828,46889,46951,47015,47077,47138,47206,47306,47366,47432,47505,47574,47631,47683,47745,48335,48411,48476,48535,48594,48654,48714,48774,48834,48894,48954,49014,49074,49134,49194,49253,49313,49373,49433,49493,49553,49613,49673,49733,49793,49853,49912,49972,50032,50091,50150,50209,50268,50327,50386,50813,50848,51593,51656,51711,51769,51826,51876,51937,51994,52028,52063,52394,54053,65545,220948,221149,221259,221460,221589,259696,259763,371431,399252,401317,403394,403771"
+                    }
+                },
+                {
+                    "source": "/Users/tushar/Documents/Projects/ArticlePOC/androidApp/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "401,402,403",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "19543,19589,19636",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "19584,19631,19682"
                     }
                 },
                 {

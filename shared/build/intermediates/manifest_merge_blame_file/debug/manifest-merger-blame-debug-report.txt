@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="24"
-6-->/Users/tushar/AndroidStudioProjects/ArticlePOC/shared/src/androidMain/AndroidManifest.xml
+6-->/Users/tushar/Documents/Projects/ArticlePOC/shared/src/androidMain/AndroidManifest.xml
 7        android:targetSdkVersion="29" />
-7-->/Users/tushar/AndroidStudioProjects/ArticlePOC/shared/src/androidMain/AndroidManifest.xml
+7-->/Users/tushar/Documents/Projects/ArticlePOC/shared/src/androidMain/AndroidManifest.xml
 8
 9</manifest>

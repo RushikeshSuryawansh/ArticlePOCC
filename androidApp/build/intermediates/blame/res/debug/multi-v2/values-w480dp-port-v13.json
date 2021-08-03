@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tushar/AndroidStudioProjects/ArticlePOC/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
+            "outputFile": "/Users/tushar/Documents/Projects/ArticlePOC/androidApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml",
             "map": [
                 {
                     "source": "/Users/tushar/.gradle/caches/transforms-2/files-2.1/58976211ce581798717bf6f4e9b9dce4/material-1.2.1/res/values-w480dp-port-v13/values-w480dp-port-v13.xml",
