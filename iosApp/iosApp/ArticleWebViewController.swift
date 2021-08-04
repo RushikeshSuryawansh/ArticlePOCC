@@ -19,11 +19,9 @@ class ArticleWebViewController: UIViewController {
         super.viewDidLoad()
         let url = URL(string: articleUrl)
         webView.load(URLRequest(url: url!))
-        // Do any additional setup after loading the view.
     }
     
     @IBAction func backBtnCliked(_ sender: Any) {
         self.navigationController?.popViewController(animated: true)
     }
-
 }
